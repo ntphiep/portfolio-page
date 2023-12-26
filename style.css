@@ -216,7 +216,7 @@ body {
 .home-sci {
     position: absolute;
     bottom: 40px;
-    width: 170px;
+    width: 270px;
     display: flex;
     justify-content: space-between;
 }
@@ -314,7 +314,11 @@ body {
 
 @keyframes maniActive {
     100% {
-        pointer-events: auto;
+        right: 0;
     }
     
 }
+
+
+
+
